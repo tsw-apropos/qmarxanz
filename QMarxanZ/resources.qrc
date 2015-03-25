@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/plugins/QMarxanZ" >
+        <file>icons/qmz_settings.png</file>
+        <file>icons/qmz_define.png</file>
+        <file>icons/qmz_run.png</file>
+        <file>icons/qmz_mkgrid.png</file>
+        <file>icons/qmz_calc.png</file>
+    </qresource>
+</RCC>
