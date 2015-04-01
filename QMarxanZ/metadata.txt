@@ -10,7 +10,7 @@
 name=QMarxanZ
 qgisMinimumVersion=2.8
 description=Create Marxan and Marxan with Zones inputs, run analysis and import results
-version=0.5
+version=0.5.1
 author=Apropos Information Systems Inc.
 email=tsw@aproposinfosystems.com
 

@@ -465,7 +465,7 @@ class qmzSettings(QtGui.QDialog, Ui_dlgSettingsGIS):
             "Directory name:")
         if ok and pdName <> '':
             dn = pdName.replace(' ','')
-            self.editDir = os.path.join(self.qmzDir,self.editDir)
+            self.editDir = os.path.join(self.qmzDir,pdName)
             if not os.path.exists(self.editDir):
                 os.mkdir(self.editDir)
                 os.mkdir(os.path.join(self.editDir,'qmzfiles'))
