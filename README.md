@@ -1,5 +1,5 @@
 # qmarxanz
-THIS PROJECT IS RETIRED. Please use the CLUZ QGIS plugin instead.
+THIS PROJECT IS RETIRED. Please use the CLUZ QGIS or QMarxan Toolbox plugins instead.
 
 QMarxanZ for QGIS 2.x is a complete rewrite of QMarxan for QGIS 1.x
 
